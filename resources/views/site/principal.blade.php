@@ -9,7 +9,7 @@
       
 
         <div class="conteudo-destaque">
-        
+        <!-- changes -->
             <div class="esquerda">
                 <div class="informacoes">
                     <h1>Sistema Super Gestão</h1>
